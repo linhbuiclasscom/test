@@ -47,5 +47,6 @@ app.post('*', (req, res) => {
     }
     res.status(401).send()
 });
+const port = process.env.PORT || 8080
 
-app.listen(3001)
+app.listen(port)
