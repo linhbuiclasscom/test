@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/268f90e3-5007-46c9-9f91-c160f7d19430/resourceGroups/canvas-pre-prod/providers/Microsoft.Web/sites/MicrosoftTeamsMeetings",
+    "appService.deploySubpath": "."
+}
